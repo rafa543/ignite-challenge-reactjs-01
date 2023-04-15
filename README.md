@@ -10,7 +10,7 @@ propriedades, estados e hooks além de aplicar o TypeScript no projeto para adic
 - [SASS](https://sass-lang.com/) for styling components.
 
 ## Demo
-![](./.github/project-screenshot.png)
+<img src="https://github.com/rafa543/ignite-challenge-reactjs-01/blob/main/public/image.png"/>
 
 
 ## Running locally
